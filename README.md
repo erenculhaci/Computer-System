@@ -1,4 +1,4 @@
-# Computer System Simulation
+# Computer System
 
 This project implements a simulation of a computer system with components including a CPU, GPU, ALU, and CUDA cores. Each component has specific responsibilities and interacts with others to perform various operations. This README provides an overview of the classes and their functionality.
 
